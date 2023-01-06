@@ -1,3 +1,1 @@
 Full-Stack Software Developer/Software Engineer student, with knowledge of Javascript and Python languages. Completed several projects using HTML, CSS, JavaScript, React, Jest Framework and Python. Passionate about coding, technology and Computer Science. 
-
-LinkedIn: michelle-bessa
