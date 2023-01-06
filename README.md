@@ -1,1 +1,1 @@
-Currently enrolled in a Full-Stack Software Developer program, focusing on becoming a Software Engineer. I love technology and always think of the world ahead, so my passion for technology brought me to learn coding - which I have fun doing!
+Full-Stack Software Developer student focusing on becoming a Software Engineer, with knowledge of Javascript and Python languages. Completed several projects using HTML, CSS, JavaScript, React, Jest Framework and Python. Passionate about coding, technology and Computer Science.
