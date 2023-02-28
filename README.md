@@ -15,13 +15,17 @@
 <div align="center">:sparkles: Fun fact:  I snowboard and play acoustic guitar</div>
 
 </br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=michellebessa&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=00CED1&bg_color=0d1117" alt="Michelle Bessa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellebessa&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
 </br>
+</br>
+
+<div align="center" dir="auto" <img style="max-width: 100%;">
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellebessa&theme=react&layout=compact" />
+&nbsp;
+&nbsp;
+&nbsp;
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=michellebessa&show_icons=true&theme=react" />
+
+</div>
 
  ## <div align="center">Main skills:<div>
   
@@ -36,8 +40,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
   
  </div>
-
-</br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=michellebessa&bg_color=030303&color=76eadc&line=25a2a0&point=b1a9a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
