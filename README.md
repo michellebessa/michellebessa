@@ -12,7 +12,7 @@
 <div align="center">:keyboard:  I'm currently studying the general concepts of Computer Science</div>
 <div align="center">:computer_mouse:  Just finished coding an Authentication System using Flask and React</div>
 <div align="center">:dart: 2023 goals: Grow my knowledge in backend and Artificial Intelligence/Machine Learning</div>
-<div align="center">:sparkles: Fun fact:  I snowboard and play acoustic guitar</div>
+<div align="center">:sparkles: Fun fact:  I snowboard and play guitar</div>
 
 </br>
 </br>
