@@ -9,7 +9,7 @@
 </br>
 
 <div align="center">:desktop_computer:  I have knowledge of Javascript, React, Python and Flask languages</div>
-<div align="center">:keyboard:  I'm currently taking a Python course/div>
+<div align="center">:keyboard:  I'm currently taking a Python course</div>
 <div align="center">:computer_mouse:  Just finished coding an Authentication System using Flask and React</div>
 <div align="center">:dart: 2023 goals: Grow my knowledge in backend and Artificial Intelligence/Machine Learning</div>
 <div align="center">:sparkles: Fun fact:  I snowboard and play guitar</div>
