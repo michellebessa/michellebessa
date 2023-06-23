@@ -2,17 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 
-<div align="center">I'm Michelle, a Software Developer passionate Technology and Computer Science</div>
-
-<div align="center">I'm from Sao Paulo/Brazil :brazil: currently living in  Miami Beach/USA :us:</div>
+<div align="center">I'm a Full-Stack Software Developer with knowledge in Python, React JS and React Native.</div>
 
 </br>
-
-<div align="center">:desktop_computer:  I have knowledge of Javascript, React Js, React Native, Python and Flask</div>
-<div align="center">:keyboard:  I'm currently taking a Python course focused on Data Visualization</div>
-<div align="center">:computer_mouse:  Just finished coding an Authentication System using Flask and React</div>
-<div align="center">:dart: 2023 goals: Grow my knowledge in backend development</div>
-<div align="center">:sparkles: Fun fact:  I snowboard and play guitar</div>
 
 </br>
 </br>
