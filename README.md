@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 
 </br>
-</br>
 
 <div align="center">I'm a Full-Stack Software Developer with knowledge in Python, React JS and React Native.</div>
 
