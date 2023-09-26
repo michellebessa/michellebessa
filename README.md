@@ -33,7 +33,7 @@
   
  </div>
 
-https://raw.githubusercontent.com/michellebessa/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/github-compact.svg
+[![Michelle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </br>
 
