@@ -33,7 +33,7 @@
   
  </div>
 
-[![Michelle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michellebessa&theme=tokyo-night)](https://github.com/michellebessa/github-readme-activity-graph)
+[![Michelle's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michellebessa)](https://github.com/michellebessa/github-readme-activity-graph)
 
 </br>
 
