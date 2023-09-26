@@ -33,7 +33,7 @@
   
  </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=michellebessa&bg_color=030303&color=76eadc&line=25a2a0&point=b1a9a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://raw.githubusercontent.com/michellebessa/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/github-compact.svg
 
 </br>
 
