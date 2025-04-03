@@ -4,7 +4,7 @@
 
 </br>
 
-<div align="center">I'm Michelle, a Full-Stack Software Developer with knowledge in React JS, React Native, Javascript and Python.</div>
+<div align="center">I'm Michelle, a Software Developer with knowledge in React JS, React Native, Javascript and Python.</div>
 
 </br>
 </br>
